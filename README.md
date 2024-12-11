@@ -56,6 +56,17 @@ Welcome to **The Python Playground**, a collection of fun and practical Python p
 
 ---
 
+### 6. Interactive Inventory Management System
+- **Description**: Manage an inventory of products interactively with features for analytics and updates.
+- **Features**:
+  - Add, remove, and view products in the inventory.
+  - Calculate total inventory value and average product price.
+  - Identify the most expensive item in stock.
+- [View Project Code](./interactive_inventory_system.py)
+
+---
+
+
 ## Why "The Python Playground"?
 
 This repository is your playground to experiment with Python concepts while building real-world applications. Each project is designed to be self-contained, beginner-friendly, and scalable for more advanced users. It's a place where curiosity meets creativity, making coding enjoyable and impactful.
@@ -71,7 +82,7 @@ This repository is your playground to experiment with Python concepts while buil
 2. Explore each project independently for detailed functionality.
 
 ## Requirements
-- Python 3.6+
+- Python 3.8+
 - No external dependencies (all projects use Python's standard library).
 
 ## Contributions
